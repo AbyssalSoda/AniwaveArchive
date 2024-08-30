@@ -7,7 +7,7 @@ A comprehensive archive of show titles and metadata from the defunct Aniwave pla
 </p>
 
 <p align="center">
- <a href="https://github.com/AbyssalSoda/AniwaveArchive/releases"><img height="30px" src="https://img.shields.io/github/downloads/AbyssalSoda/AniwaveArchive/total?color=brightgreen" alt="Downloads"></a>
+ <a href="https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v1.0/Aniwave_titles.txt"><img height="30px" src="https://img.shields.io/github/downloads/AbyssalSoda/AniwaveArchive/v1.0/total?color=brightgreen" alt="Downloads"></a>
  <a href="https://github.com/AbyssalSoda/AniwaveArchive/issues"><img height="30px" src="https://img.shields.io/github/issues/AbyssalSoda/AniwaveArchive?color=brightgreen" alt="Issues Badge"></a>
 </p>
 
@@ -15,7 +15,8 @@ A comprehensive archive of show titles and metadata from the defunct Aniwave pla
   <a href="#Files">Files</a> •
   <a href="#aniwavearchive-functionality">Functionality</a> •
   <a href="#faq">FAQ</a> •
-  <a href="#links">Links</a>
+  <a href="#links">Links</a>•
+  <a href="#links">Legal</a>
 </p>
 
 <p align="center">
@@ -24,14 +25,12 @@ A comprehensive archive of show titles and metadata from the defunct Aniwave pla
 
 ---
 
-
-
 <h2 id="Files">Files</h2>
 
 To access the archive files, you can download them individually from the links below:
 
-- [Aniwave_titles.txt](https://github.com/AbyssalSoda/AniwaveArchive/releases/download/latest/Aniwave_titles.txt) - Contains every title available on Aniwave, both in English and Japanese.
-- [Aniwave_titlesMETA.txt](https://github.com/AbyssalSoda/AniwaveArchive/releases/download/latest/Aniwave_titlesMETA.txt) - Includes all titles plus additional metadata such as subbed/dubbed availability.
+- [Aniwave_titles.txt](https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v1.0/Aniwave_titles.txt) - Contains every title available on Aniwave, both in English and Japanese.
+- [Aniwave_titlesMETA.txt](https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v1.0/Aniwave_titlesMETA.txt) - Includes all titles plus additional metadata such as subbed/dubbed availability.
 
 <h2 id="aniwavearchive-functionality">Functionality</h2>
 
@@ -56,3 +55,11 @@ A: No, AniwaveArchive does not condone or infringe upon any intellectual propert
 - [Releases](https://github.com/AbyssalSoda/AniwaveArchive/releases)
 - [Issues](https://github.com/AbyssalSoda/AniwaveArchive/issues)
 - [Buy Me a Coffee](https://ko-fi.com/I2I1TR6PC)
+
+<h2 id="legal">Legal Disclaimer</h2>
+
+The content provided in the AniwaveArchive is intended solely for historical and research purposes. The information contained in this repository is a collection of show titles and metadata from the now-defunct Aniwave platform, preserved for reference by enthusiasts and researchers. This archive does not provide any active streaming links or access to copyrighted material.
+
+AniwaveArchive and its contributors do not condone, endorse, or engage in any activity that infringes upon the intellectual property rights of others. The information presented here is not intended to be used in any legal proceedings, nor should it be construed as evidence in any court case against Aniwave, its creators, or any other related parties.
+
+By using this archive, you agree that AniwaveArchive and its contributors shall not be held liable for any actions taken based on the information provided within this repository. Any use of the material beyond its intended research and reference purposes is done at your own risk.
