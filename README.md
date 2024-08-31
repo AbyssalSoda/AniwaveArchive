@@ -7,8 +7,15 @@ A comprehensive archive of show titles and metadata from the defunct Aniwave pla
 </p>
 
 <p align="center">
- <a href="https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v1.0/Aniwave_titles.txt"><img height="30px" src="https://img.shields.io/github/downloads/AbyssalSoda/AniwaveArchive/v1.0/total?color=brightgreen" alt="Downloads"></a>
- <a href="https://github.com/AbyssalSoda/AniwaveArchive/issues"><img height="30px" src="https://img.shields.io/github/issues/AbyssalSoda/AniwaveArchive?color=brightgreen" alt="Issues Badge"></a>
+ <a href="https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v1.0/Aniwave_titles.txt">
+   <img height="30px" src="https://img.shields.io/github/downloads/AbyssalSoda/AniwaveArchive/v1.0/total?color=brightgreen" alt="Downloads for v1.0">
+ </a>
+ <a href="https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v2.0/Aniwave_titles.txt">
+   <img height="30px" src="https://img.shields.io/github/downloads/AbyssalSoda/AniwaveArchive/v2.0/total?color=brightgreen" alt="Downloads for v2.0">
+ </a>
+ <a href="https://github.com/AbyssalSoda/AniwaveArchive/issues">
+   <img height="30px" src="https://img.shields.io/github/issues/AbyssalSoda/AniwaveArchive?color=brightgreen" alt="Issues Badge">
+ </a>
 </p>
 
 <p align="center">
@@ -16,7 +23,7 @@ A comprehensive archive of show titles and metadata from the defunct Aniwave pla
   <a href="#aniwavearchive-functionality">Functionality</a> •
   <a href="#faq">FAQ</a> •
   <a href="#links">Links</a>•
-  <a href="#links">Legal</a>
+  <a href="#legal">Legal</a>
 </p>
 
 <p align="center">
@@ -29,8 +36,8 @@ A comprehensive archive of show titles and metadata from the defunct Aniwave pla
 
 To access the archive files, you can download them individually from the links below:
 
-- [Aniwave_titles.txt](https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v1.0/Aniwave_titles.txt) - Contains every title available on Aniwave, both in English and Japanese.
-- [Aniwave_titlesMETA.txt](https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v1.0/Aniwave_titlesMETA.txt) - Includes all titles plus additional metadata such as subbed/dubbed availability.
+- [Aniwave_titles.txt](https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v2.0/Aniwave_titles.txt) - Contains every title available on Aniwave, both in English and Japanese.
+- [Aniwave_titlesMETA.txt](https://github.com/AbyssalSoda/AniwaveArchive/releases/download/v2.0/Aniwave_titlesMETA.txt) - Includes all titles plus additional metadata such as subbed/dubbed availability.
 
 <h2 id="aniwavearchive-functionality">Functionality</h2>
 
